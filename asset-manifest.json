@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ShinengZheng/101167765_comp3123_a2.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ShinengZheng/101167765_comp3123_a2.git/static/js/main.b9acfb35.chunk.js",
+    "main.js.map": "/ShinengZheng/101167765_comp3123_a2.git/static/js/main.b9acfb35.chunk.js.map",
+    "runtime-main.js": "/ShinengZheng/101167765_comp3123_a2.git/static/js/runtime-main.cc756fd7.js",
+    "runtime-main.js.map": "/ShinengZheng/101167765_comp3123_a2.git/static/js/runtime-main.cc756fd7.js.map",
+    "static/js/2.4b9b6fc1.chunk.js": "/ShinengZheng/101167765_comp3123_a2.git/static/js/2.4b9b6fc1.chunk.js",
+    "static/js/2.4b9b6fc1.chunk.js.map": "/ShinengZheng/101167765_comp3123_a2.git/static/js/2.4b9b6fc1.chunk.js.map",
+    "static/js/3.d846dc84.chunk.js": "/ShinengZheng/101167765_comp3123_a2.git/static/js/3.d846dc84.chunk.js",
+    "static/js/3.d846dc84.chunk.js.map": "/ShinengZheng/101167765_comp3123_a2.git/static/js/3.d846dc84.chunk.js.map",
+    "index.html": "/ShinengZheng/101167765_comp3123_a2.git/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/ShinengZheng/101167765_comp3123_a2.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.4b9b6fc1.chunk.js.LICENSE.txt": "/ShinengZheng/101167765_comp3123_a2.git/static/js/2.4b9b6fc1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ShinengZheng/101167765_comp3123_a2.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc756fd7.js",
+    "static/js/2.4b9b6fc1.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.b9acfb35.chunk.js"
+  ]
+}
